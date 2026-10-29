@@ -1,0 +1,15 @@
+{
+  "name": "ruangchat-ultimate",
+  "version": "2.1.0",
+  "private": true,
+  "description": "RuangChat prototype with consent-based voice calls and push notification support",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1",
+    "web-push": "^3.6.7"
+  }
+}
