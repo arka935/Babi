@@ -1,0 +1,16 @@
+{
+  "name": "RuangChat",
+  "short_name": "RuangChat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090c0b",
+  "theme_color": "#103e30",
+  "description": "Chat pribadi dan panggilan suara RuangChat",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
